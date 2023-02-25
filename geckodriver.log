@@ -1,0 +1,27 @@
+1677294269922	geckodriver	INFO	Listening on 127.0.0.1:65436
+1677294276363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Miguel\\AppData\\Local\\Temp\\rust_mozprofileLtYq0O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677294287683	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677294287810	Marionette	INFO	Listening on port 65446
+Read port: 65446
+Read port: 65446
+Read port: 65446
+Read port: 65446
+WebDriver BiDi listening on ws://127.0.0.1:65437
+Read port: 65446
+Read port: 65446
+Read port: 65446
+Read port: 65446
+Read port: 65446
+Read port: 65446
+Read port: 65446
+Read port: 65446
+Read port: 65446
+Read port: 65446
+Read port: 65446
+1677294305596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Miguel\\AppData\\Local\\Temp\\rust_mozprofileLtYq0O\\search.json.mozlz4", (void 0)))
